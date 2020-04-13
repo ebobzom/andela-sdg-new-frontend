@@ -1,6 +1,6 @@
 <template>
   
-    <div class="container" role="container">
+    <div class="container" role="contentinfo">
       <h1>Covid-19 Estimator</h1>
       <form action="#" method="POST">
           <label for="population">Population</label>
