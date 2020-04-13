@@ -49,7 +49,7 @@ h1{
 }
 
 form{
-    width: 40%;
+    width: 70%;
     margin: 0 auto;
     border: 1px solid grey;
     border-radius: 10px;
