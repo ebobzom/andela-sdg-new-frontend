@@ -75,6 +75,7 @@ button, select{
     height: 30px;
     border-radius: 4px;
     display: block;
+    height: 48px;
 }
 
 label[for='periodType']{
