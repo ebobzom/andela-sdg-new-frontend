@@ -1,5 +1,5 @@
 <template>
-  <div id="app" role="main-app">
+  
     <div class="container" role="container">
       <h1>Covid-19 Estimator</h1>
       <form action="#" method="POST">
@@ -25,7 +25,7 @@
       </form>
 
     </div>
-  </div>
+
 </template>
 
 <script>
