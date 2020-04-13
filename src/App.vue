@@ -44,6 +44,7 @@ export default {
 }
 body{
     background-color: #f5f5f5;
+    font-size: 18px;
 }
 
 h1{
