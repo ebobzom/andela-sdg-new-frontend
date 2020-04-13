@@ -39,9 +39,11 @@ export default {
 </script>
 
 <style>
+*{
+        font-size: 1em;
+}
 body{
     background-color: #f5f5f5;
-    font-size: 1.5em;
 }
 
 h1{
